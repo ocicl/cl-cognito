@@ -1,0 +1,10 @@
+* cl-cognito
+
+Amazon AWS Cognito interface
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stablecross/cl-cognito.git   |
+| commit  | 8f1fa6d  |
+| systems | cl-cognito |
+|---------+-------------------------------------------|
+
